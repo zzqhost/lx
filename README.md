@@ -1,0 +1,4 @@
+lx
+==
+
+android's gitignore
